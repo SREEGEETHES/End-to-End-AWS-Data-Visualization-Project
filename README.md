@@ -85,10 +85,11 @@ SELECT * FROM "default"."taskstable" LIMIT 10;
 3. Choose `DynamoDBTasks` as the database and `taskstable` as the table.
 4. Select **Direct Query** mode for real-time data.
 5. Click **Visualize**.
+![Image](https://github.com/user-attachments/assets/92d7491b-9af2-4f97-bfbf-2032fb338075)
 ![Image](https://github.com/user-attachments/assets/44afdcae-c29f-4093-a04f-f8b25e28d817)
 ![Image](https://github.com/user-attachments/assets/e1052208-189e-4498-8f56-dccf820258d0)
 ![Image](https://github.com/user-attachments/assets/6e5bb2cf-aca1-4cbe-9ca6-b4aff76119db)
-![Image](https://github.com/user-attachments/assets/92d7491b-9af2-4f97-bfbf-2032fb338075)
+
 
 ---
 
