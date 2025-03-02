@@ -39,7 +39,7 @@ This project demonstrates how to integrate multiple AWS services to visualize da
 }
 add extra tasks with my json txt file
 ```
-![Image](https://github.com/user-attachments/assets/34cc1ff6-6d66-4531-af65-33dc33fe859b)
+![Image](https://github.com/user-attachments/assets/97fb0397-b0e7-40ce-a9fa-2c513f28e972)
 ![Image](https://github.com/user-attachments/assets/173712e6-ef67-44af-9ddf-edb9e4eea52b)
 Query
 ![Image](https://github.com/user-attachments/assets/3e08b364-9564-4015-8d39-544ea8433cf7)
