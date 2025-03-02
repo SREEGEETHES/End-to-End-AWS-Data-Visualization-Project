@@ -37,6 +37,7 @@ This project demonstrates how to integrate multiple AWS services to visualize da
   "completionStatus": true,
   "createdDate": "2025-03-01"
 }
+add extra tasks with my json txt file
 ```
 ![Image](https://github.com/user-attachments/assets/34cc1ff6-6d66-4531-af65-33dc33fe859b)
 ![Image](https://github.com/user-attachments/assets/173712e6-ef67-44af-9ddf-edb9e4eea52b)
@@ -73,6 +74,8 @@ SELECT * FROM "default"."taskstable" LIMIT 10;
   "Resource": ["arn:aws:lambda:your-region:your-account-id:function:*"]
 }
 ```
+use the correct arn to get connect properly
+![Image](https://github.com/user-attachments/assets/f0cd3d87-b309-46f1-8cef-078b022a9a41)
 ![Image](https://github.com/user-attachments/assets/47e1a760-2467-484e-ac88-7baf7918aae6)
 ![Image](https://github.com/user-attachments/assets/78b8eec0-8801-4dd4-adb8-023384903991)
 ![Image](https://github.com/user-attachments/assets/b0924bd8-0a1d-46d8-9da4-5ecfee1fa303)
